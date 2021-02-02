@@ -1,0 +1,413 @@
+OCCP_name,code,count,count_P,income_security
+"Sales Assistants (General)",6211,101821,0.0436918991843572,0.036
+"Accountants",2211,56112,0.0240779391975393,0.25
+"Advertising, Public Relations and Sales Managers",1311,50219,0.0215492234916101,0.445
+"General Clerks",5311,44719,0.0191891460467415,0.127
+"Registered Nurses",2544,41612,0.0178559168428858,0.226
+"Retail Managers",1421,38367,0.0164634711504133,0.196
+"Software and Applications Programmers",2613,35436,0.0152057644247933,0.281
+"Secondary School Teachers",2414,34730,0.0149028163018702,0.273
+"Primary School Teachers",2412,33585,0.0144114910883476,0.222
+"Advertising and Marketing Professionals",2251,33042,0.0141784870787905,0.262
+"Receptionists",5421,32513,0.0139514905390932,0.087
+"Contract, Program and Project Administrators",5111,31559,0.013542124378656,0.263
+"Management and Organisation Analysts",2247,29847,0.0128074966358169,0.277
+"ICT Managers",1351,28349,0.0121646973608327,0.57
+"Sales Representatives",6113,27735,0.0119012268969873,0.236
+"Office Managers",5121,27048,0.0116064317688738,0.182
+"Child Carers",4211,26451,0.011350256089858,0.073
+"Solicitors",2713,26284,0.011278595556532,0.299
+"Waiters",4315,26146,0.0112193790679153,0.014
+"Construction Managers",1331,25254,0.0108366174168566,0.336
+"Chief Executives and Managing Directors",1111,24187,0.0103787623925521,0.477
+"Accounting Clerks",5511,23646,0.010146616592975,0.162
+"Real Estate Sales Agents",6121,22194,0.00952355614752973,0.173
+"Finance Managers",1322,20784,0.00891851811166342,0.549
+"Carpenters and Joiners",3312,19763,0.00848040191689781,0.142
+"Bar Attendants and Baristas",4311,19174,0.00822765907780188,0.014
+"General Managers",1112,19005,0.00815514033449592,0.494
+"Electricians",3411,18664,0.00800881553291407,0.224
+"Chefs",3513,18471,0.00792599826984868,0.129
+"Human Resource Professionals",2231,18466,0.0079238527448988,0.306
+"Generalist Medical Practitioners",2531,18088,0.00776165105868783,0.305
+"Personal Assistants",5211,18078,0.00775736000878807,0.238
+"University Lecturers and Tutors",2421,17769,0.00762476656688545,0.197
+"Bookkeepers",5512,17552,0.00753165078406064,0.051
+"Human Resource Managers",1323,16585,0.00711670625875374,0.516
+"Checkout Operators and Office Cashiers",6311,16298,0.0069935531266306,0.026
+"Kitchenhands",8513,15957,0.00684722832504875,0.042
+"Graphic and Web Designers, and Illustrators",2324,15782,0.00677213495180293,0.135
+"Storepersons",7411,15654,0.00671720951308599,0.111
+"Aged and Disabled Carers",4231,15330,0.00657817949633373,0.079
+"Other Specialist Managers",1399,15291,0.00656144440172466,0.458
+"Purchasing and Supply Logistics Clerks",5911,15148,0.00650008238815808,0.204
+"Other Hospitality, Retail and Service Managers",1499,14595,0.00626278732870129,0.316
+"Cafe and Restaurant Managers",1411,14515,0.0062284589295032,0.084
+"Professionals",2000,14304,0.00613791777661824,NaN
+"Financial Investment Advisers and Managers",2223,14046,0.00602720868920441,0.475
+"Commercial Cleaners",8112,13811,0.00592636901656002,0.05
+"Bank Workers",5521,13271,0.00569465232197292,0.193
+"Plumbers",3341,13202,0.00566504407766457,0.164
+"Architectural, Building and Surveying Technicians",3121,12929,0.00554789841540109,0.301
+"Sports Coaches, Instructors and Officals",4523,12760,0.00547537967209513,0.014
+"ICT Support Technicians",3131,12711,0.0054543535275863,0.218
+"Private Tutors and Teachers",2492,12196,0.00523336445774861,0.002
+"Managers - NFI",1000,12028,0.00516127481943262,NaN
+"Truck Drivers",7331,11953,0.00512909194518441,0.196
+"Inquiry Clerks",5412,11859,0.00508875607612666,0.169
+"Civil Engineering Professionals",2332,11449,0.00491282303023645,0.365
+"Call or Contact Centre and Customer Service Managers",1492,11408,0.00489522972564743,0.384
+"Nursing Support and Personal Care Workers",4233,10923,0.00468711380550902,0.105
+"ICT Business and Systems Analysts",2611,10881,0.00466909139593003,0.387
+"Secretaries",5212,10748,0.0046120204322632,0.132
+"Supply and Distribution Managers",1336,10411,0.00446741205064125,0.448
+"Gardeners",3622,10209,0.00438073284266608,0.054
+"Motor Mechanics",3212,10176,0.00436657237799687,0.194
+"Architects and Landscape Architects",2321,10112,0.0043391096586384,0.273
+"Police",4413,9938,0.00426444539038256,0.384
+"Education Aides",4221,9917,0.00425543418559306,0.106
+"Hairdressers",3911,9779,0.00419621769697635,0.073
+"Production Managers",1335,9625,0.00413013552852003,0.425
+"Keyboard Operators",5321,9613,0.00412498626864032,0.117
+"Specialist Managers",1300,9109,0.00390871735369236,NaN
+"Journalists and Other Writers",2124,8808,0.00377955675170955,0.25
+"Financial Brokers",2221,8689,0.0037284932579024,0.241
+"Fitness Instructors",4521,8656,0.00371433279323319,0.007
+"Financial Dealers",2222,8539,0.00366412750940598,0.551
+"Technical Sales Representatives",2254,8353,0.00358431398127043,0.368
+"Other Miscellaneous Labourers",8999,8239,0.00353539601241315,0.05
+"Psychologists",2723,8098,0.00347489220882652,0.154
+"Conference and Event Organisers",1493,8071,0.00346330637409716,0.172
+"ICT Sales Professionals",2252,7966,0.00341825035014967,0.519
+"Welfare Support Workers",4117,7955,0.00341353019525993,0.177
+"ICT Professionals",2600,7929,0.00340237346552056,NaN
+"Database and Systems Administrators, and ICT Security Specialists",2621,7874,0.00337877269107187,0.35
+"Computer Network Professionals",2631,7639,0.00327793301842748,0.338
+"Insurance, Money Market and Statistical Clerks",5523,7471,0.0032058433801115,0.214
+"Vocational Education Teachers (Aus) / Polytechnic Teachers (NZ)",2422,7444,0.00319425754538214,0.208
+"Credit and Loans Officers (Aus) / Finance Clerks (NZ)",5522,7398,0.00317451871584324,0.251
+"Auditors, Company Secretaries and Corporate Treasurers",2212,7317,0.00313976121165518,0.33
+"Building and Plumbing Labourers",8211,7090,0.0030423543789306,0.125
+"Shelf Fillers",8912,7082,0.00303892153901079,0.068
+"Policy and Planning Managers",1324,7015,0.00301017150468239,0.479
+"Automobile Drivers",7311,6792,0.00291448109191772,0.009
+"Other Information and Organisation Professionals",2249,6659,0.0028574101282509,0.342
+"Delivery Drivers",7321,6559,0.00281449962925329,0.049
+"Physiotherapists",2525,6558,0.00281407052426331,0.196
+"Public Relations Professionals",2253,6552,0.00281149589432346,0.258
+"Inspectors and Regulatory Officers",5995,6523,0.00279905184961415,0.268
+"Pharmacists",2515,6449,0.00276729808035592,0.194
+"Early Childhood (Pre-Primary School) Teachers",2411,6401,0.00274670104083706,0.191
+"Call or Contact Centre Workers",5411,6362,0.002729965946228,0.177
+"Cooks",3514,6284,0.00269649575700986,0.105
+"Tourism and Travel Advisers",4516,6220,0.00266903303765139,0.2
+"Health and Welfare Services Managers",1342,6193,0.00265744720292203,0.421
+"Domestic Cleaners",8113,6184,0.00265358525801225,0
+"Cafe Workers",4312,6096,0.00261582401889435,0.013
+"Medical Laboratory Scientists",2346,6042,0.00259265234943564,0.27
+"Security Officers and Guards",4422,6039,0.00259136503446571,0.132
+"Practice Managers",5122,5989,0.00256990978496691,0.209
+"Other Miscellaneous Clerical and Administrative Workers",5999,5916,0.00253858512069865,0.157
+"Industrial, Mechanical and Production Engineers",2335,5910,0.0025360104907588,0.373
+"Pharmacy Sales Assistants",6214,5747,0.00246606637739269,0.068
+"Packers",8321,5742,0.00246392085244281,0.086
+"Artistic Directors, and Media Producers and Presenters",2121,5734,0.002460488012523,0.25
+"Couriers and Postal Deliveries",5612,5730,0.0024587715925631,0.15
+"Painting Trades Workers",3322,5679,0.00243688723807431,0.054
+"Importers, Exporters and Wholesalers",1333,5643,0.00242143945843517,0.168
+"Transport and Despatch Clerks",5912,5625,0.0024137155686156,0.208
+"Fast Food Cooks",8511,5604,0.00240470436382611,0
+"Payroll Clerks",5513,5267,0.00226009598220416,0.218
+"Social Workers",2725,5235,0.00224636462252492,0.225
+"Motor Vehicle and Vehicle Parts Salespersons",6213,5222,0.00224078625765523,0.221
+"Counsellors",2721,5166,0.00221675637821657,0.118
+"Film, Television, Radio and Stage Directors",2123,5103,0.00218972276384808,0.227
+"Handypersons",8993,5051,0.00216740930436932,0.05
+"Research and Development Managers",1325,5022,0.00215496525966001,0.612
+"Forklift Drivers",7213,5000,0.00214552494988054,0.134
+"Bus and Coach Drivers",7312,4948,0.00212321149040178,0.119
+"Electronics Trades Workers",3423,4802,0.00206056216186527,0.18
+"Engineering Managers",1332,4761,0.00204296885727625,0.659
+"Land Economists and Valuers",2245,4746,0.00203653228242661,0.309
+"Dental Practitioners",2523,4684,0.00200992777304809,0.165
+"Metal Fitters and Machinists",3232,4682,0.00200906956306814,0.317
+"Training and Development Professionals",2233,4655,0.00199748372833878,0.27
+"School Principals",1343,4632,0.00198761431356933,0.484
+"Performing Arts Technicians",3995,4568,0.00196015159421086,0.081
+"Beauty Therapists",4511,4537,0.0019468493395216,0.021
+"Medical Technicians",3112,4518,0.00193869634471205,0.109
+"Special Education Teachers",2415,4468,0.00191724109521325,0.338
+"Interior Designers",2325,4462,0.00191466646527339,0.144
+"ICT Support and Test Engineers",2632,4449,0.0019090881004037,0.407
+"ICT Sales Assistants",6212,4367,0.00187390149122566,0.108
+"Other Medical Practitioners",2539,4309,0.00184901340180705,0.745
+"Ticket Salespersons",6394,4290,0.0018408604069975,0.073
+"Intelligence and Policy Analysts",2244,4199,0.00180181185290968,0.328
+"Medical Imaging Professionals",2512,4131,0.0017726327135913,0.31
+"Engineering Professionals",2330,4107,0.00176233419383187,NaN
+"Bakers and Pastrycooks",3511,4084,0.00175246477906242,0.098
+"Telecommunications Engineering Professionals",2633,4031,0.00172972221459369,0.332
+"Midwives",2541,4010,0.00172071100980419,0.205
+"School Teacher",2410,3997,0.0017151326449345,NaN
+"Retail Supervisors",6215,3981,0.00170826696509488,0.143
+"Nurse Managers",2543,3979,0.00170740875511493,0.37
+"Judicial and Other Legal Professionals",2712,3967,0.00170225949523522,0.402
+"Dental Assistants",4232,3929,0.00168595350561613,0.082
+"Other Education Managers",1344,3927,0.00168509529563617,0.435
+"Electrical Engineers",2333,3879,0.00166449825611732,0.405
+"Other Miscellaneous Technicians and Trades Workers",3999,3859,0.0016559161563178,0.201
+"Ministers of Religion",2722,3849,0.00165162510641804,0.078
+"Fashion, Industrial and Jewellery Designers",2323,3846,0.00165033779144811,0.135
+"Conveyancers and Legal Executives",5991,3799,0.00163016985691923,0.147
+"Welfare, Recreation and Community Arts Workers",2726,3767,0.00161643849724,0.227
+"Multimedia Specialists and Web Developers",2612,3644,0.00156365858347294,0.152
+"Photographers",2113,3642,0.00156280037349298,0
+"Urban and Regional Planners",2326,3615,0.00155121453876363,0.305
+"Barristers",2711,3586,0.00153877049405432,0.128
+"Enrolled and Mothercraft Nurses",4114,3576,0.00153447944415456,0.171
+"Housekeepers",8114,3509,0.00150572940982616,0.028
+"Occupational and Environmental Health Professionals",2513,3506,0.00150444209485623,0.314
+"Insurance Agents",6112,3473,0.00149028163018702,0.295
+"Structural Steel and Welding Trades Workers",3223,3447,0.00147912490044764,0.173
+"Court and Legal Clerks",5992,3403,0.00146024428088869,0.183
+"Travel Attendants",4517,3342,0.00143406887650015,0.244
+"Music Professionals",2112,3323,0.0014259158816906,0
+"Hotel and Motel Managers",1413,3281,0.00140789347211161,0.215
+"Massage Therapists",4116,3263,0.00140016958229204,0
+"Specialist Physicians",2533,3215,0.00137957254277319,0.631
+"Technicians and Trades Workers",3000,3180,0.00136455386812402,NaN
+"Occupational Therapists",2524,3149,0.00135125161343476,0.174
+"Other Personal Service Workers",4518,3110,0.00133451651882569,0.017
+"Education Advisers and Reviewers",2491,3008,0.00129074780984813,0.274
+"Air Transport Professionals",2311,2960,0.00127015077032928,0.63
+"Airconditioning and Refrigeration Mechanics",3421,2891,0.00124054252602093,0.242
+"Social Professionals",2724,2879,0.00123539326614121,0.111
+"Environmental Scientists",2343,2875,0.00123367684618131,0.23
+"Plasterers",3332,2868,0.00123067311125148,0.083
+"Bricklayers and Stonemasons",3311,2854,0.00122466564139181,0.117
+"Cabinetmakers",3941,2810,0.00120578502183286,0.127
+"Amusement, Fitness and Sports Centre Managers",1491,2797,0.00120020665696317,0.166
+"Librarians",2246,2791,0.00119763202702332,0.221
+"Product Assemblers",8322,2781,0.00119334097712355,0.135
+"Garden and Nursery Labourers",8414,2764,0.00118604619229396,0.054
+"Transport Services Managers",1494,2744,0.00117746409249444,0.248
+"Speech Professionals and Audiologists",2527,2713,0.00116416183780518,0.13
+"Teachers of English to Speakers of Other Languages",2493,2712,0.0011637327328152,0.058
+"Telecommunications Trades Workers",3424,2696,0.00115686705297559,0.228
+"Actuaries, Mathematicians and Statisticians",2241,2638,0.00113197896355697,0.377
+"Manufacturers",1334,2618,0.00112339686375745,0.13
+"Filing and Registry Clerks",5613,2616,0.0011225386537775,0.151
+"Fire and Emergency Workers",4412,2589,0.00111095281904814,0.311
+"Concreters",8212,2585,0.00110923639908824,0.069
+"Food and Drink Factory Workers",8311,2531,0.00108606472962953,0.129
+"Sportspersons",4524,2499,0.00107233336995029,0.015
+"Ambulance Officers and Paramedics",4111,2473,0.00106117664021091,0.333
+"Surveyors and Spatial Scientists",2322,2449,0.00105087812045149,0.299
+"Actors, Dancers and Other Entertainers",2111,2380,0.00102126987614314,0.017
+"Surgeons",2535,2371,0.00101740793123335,0.571
+"Other Engineering Professionals",2339,2365,0.00101483330129349,0.335
+"Child Care Centre Managers",1341,2337,0.00100281836157416,0.231
+"Models and Sales Demonstrators",6391,2290,0.000982650427045286,0.013
+"Human Resource Clerks",5994,2268,0.000973210117265812,0.218
+"Science Technicians",3114,2256,0.000968060857386098,0.226
+"Authors, and Book and Script Editors",2122,2255,0.000967631752396122,0.139
+"Labourers",8000,2240,0.000961195177546481,NaN
+"Insulation and Home Improvement Installers",8214,2219,0.000952183972756982,0.08
+"Business Administration Managers",1320,2204,0.000945747397907341,NaN
+"Retail and Wool Buyers",6392,2151,0.000923004833438607,0.255
+"Defence Force Members - Other Ranks",4411,2104,0.00090283689890973,0
+"Cleaners and Laundry Workers",8110,2094,0.000898545849009969,NaN
+"Animal Attendants and Trainers",3611,2087,0.000895542114080136,0.032
+"Structural Steel Construction Workers",8217,2063,0.00088524359432071,0.144
+"Other Natural and Physical Science Professionals",2349,2056,0.000882239859390877,0.195
+"Complementary Health Therapists",2522,2047,0.000878377914481092,0
+"Printers",3923,2027,0.00086979581468157,0.223
+"Earthmoving Plant Operators",7212,1985,0.000851773405102573,0.148
+"Wall and Floor Tilers",3334,1983,0.000850915195122621,0.048
+"Chiropractors and Osteopaths",2521,1904,0.000817015900914509,0.036
+"Sales Assistants and Salespersons",6210,1857,0.000796847966385632,NaN
+"Telemarketers",6393,1851,0.000794273336445775,0.027
+"Aircraft Maintenance Engineers",3231,1834,0.000786978551616181,0.38
+"Optometrists and Orthoptists",2514,1815,0.000778825556806635,0.136
+"Veterinarians",2347,1814,0.000778396451816659,0.166
+"Gaming Workers",4313,1811,0.000777109136846731,0.171
+"Machine Operators",7110,1791,0.000768527037047208,NaN
+"Hospitality Workers",4310,1781,0.000764235987147447,NaN
+"Archivists, Curators and Records Managers",2242,1778,0.000762948672177519,0.265
+"Other Cleaners",8116,1752,0.00075179194243814,0.09
+"Chemists, and Food and Wine Scientists",2342,1741,0.000747071787548403,0.328
+"Visual Merchandisers",6395,1729,0.00074192252766869,0.17
+"Clothing Trades Workers",3932,1714,0.000735485952819048,0.023
+"Corporate Services Managers",1321,1713,0.000735056847829072,0.534
+"Education Professionals",2400,1692,0.000726045643039574,NaN
+"Laundry Workers",8115,1675,0.00071875085820998,0.093
+"Road and Rail Drivers",7300,1656,0.000710597863400434,NaN
+"Panelbeaters",3241,1634,0.00070115755362096,0.238
+"Debt Collectors",5993,1627,0.000698153818691127,0.204
+"Butchers and Smallgoods Makers",3512,1625,0.000697295608711175,0.108
+"Other Sales Assistants and Salespersons",6219,1619,0.000694720978771318,0.08
+"Car Detailers",8111,1614,0.000692575453821437,0.077
+"Electronics Engineers",2334,1608,0.000690000823881581,0.443
+"Commissioned Officers (Management)",1391,1600,0.000686567983961772,0.472
+"Anaesthetists",2532,1599,0.000686138878971796,0.85
+"Street Vendors and Related Salespersons",6217,1592,0.000683135144041963,0.014
+"Dietitians",2511,1572,0.000674553044242441,0.2
+"Mail Sorters",5614,1553,0.000666400049432895,0.163
+"Nurse Educators and Researchers",2542,1549,0.00066468362947299,0.337
+"Other Health Diagnostic and Promotion Professionals",2519,1543,0.000662108999533134,0.26
+"Hotel Service Managers",4314,1521,0.000652668689753659,0.101
+"Building and Engineering Technicans",3120,1505,0.000645803009914042,NaN
+"Other Machine Operators",7119,1487,0.000638079120094472,0.206
+"Train and Tram Drivers",7313,1462,0.000627351495345069,0.46
+"Insurance Investigators, Loss Adjusters and Risk Surveyors",5996,1461,0.000626922390355093,0.321
+"Freight and Furniture Handlers",8911,1459,0.000626064180375141,0.171
+"Other Hospitality Workers",4319,1457,0.000625205970395189,0.065
+"Gallery, Museum and Tour Guides",4514,1447,0.000620914920495427,0.03
+"Other Mobile Plant Operators",7219,1436,0.00061619476560569,0.144
+"Other Clerical and Office Support Workers",5619,1433,0.000614907450635762,0.083
+"Dental Hygienists, Technicians and Therapists",4112,1429,0.000613191030675857,0.109
+"Veterinary Nurses",3613,1427,0.000612332820695905,0.126
+"Greenkeepers",3623,1422,0.000610187295746025,0.134
+"Civil Engineering Draftspersons and Technicans",3122,1404,0.000602463405926455,0.273
+"Other Sales Support Workers",6399,1402,0.000601605195946503,0.088
+"Visual Arts and Crafts Professionals",2114,1391,0.000596885041056765,0
+"Psychiatrists",2534,1298,0.000556978276988987,0.726
+"Telecommunications Technical Specialists",3132,1288,0.000552687227089226,0.22
+"Gallery, Library and Museum Technicians",3993,1286,0.000551829017109274,0.186
+"Economists",2243,1284,0.000550970807129322,0.233
+"Precision Metal Trades Workers",3233,1272,0.000545821547249609,0.176
+"Other Building and Engineering Technicians",3129,1268,0.000544105127289704,0.521
+"Product Quality Controllers",8393,1260,0.000540672287369895,0.134
+"Florists",3621,1234,0.000529515557630517,0.035
+"Media Professionals",2120,1232,0.000528657347650564,NaN
+"Prison Officers",4421,1228,0.00052694092769066,0.282
+"Engineering Production Workers",7123,1184,0.000508060308131711,0.194
+"Floor Finishers",3321,1181,0.000506772993161783,0.034
+"Factory Process Workers",8300,1168,0.000501194628292094,NaN
+"Electrical Engineering Draftspersons and Technicians",3123,1156,0.00049604536841238,0.398
+"Other Stationary Plant Operators",7129,1148,0.000492612528492571,0.3
+"Life Scientists",2345,1138,0.00048832147859281,0.214
+"Marine Transport Professionals",2312,1126,0.000483172218713097,0.313
+"Business, Human Resource and Marketing Professionals",2200,1124,0.000482314008733145,NaN
+"Library Assistants",5997,1098,0.000471157278993766,0.081
+"Personal Care Consultants",4515,1088,0.000466866229094005,0
+"Other Farm, Forestry and Garden Workers",8419,1082,0.000464291599154148,0.053
+"Vehicle Painters",3243,1065,0.000456996814324554,0.225
+"Licensed Club Managers",1414,1046,0.000448843819515008,0.142
+"Crane, Hoist and Lift Operators",7121,1011,0.000433825144865845,0.354
+"Podiatrists",2526,1003,0.000430392304946036,0.128
+"Sewing Machinists",7116,990,0.000424813940076346,0
+"Machinery Operators and Drivers",7000,955,0.000409795265427183,NaN
+"Caretakers",8991,952,0.000408507950457254,0.159
+"Jewellers",3994,906,0.000388769120918353,0.152
+"Survey Interviewers",5615,899,0.000385765385988521,0
+"Glaziers",3331,891,0.000382332546068712,0.154
+"Electronic Engineering Draftspersons and Technicians",3124,888,0.000381045231098783,0.287
+"Crop Farmers",1212,882,0.000378470601158927,0.083
+"Other Factory Process Workers",8399,859,0.000368601186389476,0.065
+"Arts Professionals",2110,849,0.000364310136489715,NaN
+"Engineering, ICT and Science Technicians",3100,848,0.000363881031499739,NaN
+"Service Station Attendants",6216,848,0.000363881031499739,0.023
+"Livestock Farmers",1213,812,0.000348433251860599,0.03
+"Vending Machine Attendants",8997,811,0.000348004146870623,0.02
+"Other Accommodation and Hospitality Managers",1419,799,0.00034285488699091,0.069
+"Chemical and Materials Engineers",2331,788,0.000338134732101173,0.479
+"Signwriters",3996,782,0.000335560102161316,0.199
+"Driving Instructors",4512,749,0.000321399637492104,0
+"Geologists and Geophysicists",2344,711,0.000305093647873012,0.374
+"Motor Vehicle Parts and Accessories Fitters",8994,685,0.000293936918133634,0.123
+"Wood Machinists and Other Wood Trades Workers",3942,678,0.000290933183203801,0
+"Roof Tilers",3333,667,0.000286213028314064,0
+"Diversional Therapists",4113,660,0.000283209293384231,0.151
+"Electrotechnology and Telecommunications Trades Workers",3400,646,0.000277201823524565,NaN
+"Clerical and Administrative Workers",5000,646,0.000277201823524565,NaN
+"Chemical, Gas, Petroleum and Power Generation Plant Operator",3992,638,0.000273768983604757,0.526
+"Mechanical Engineering Draftspersons and Technicians",3125,626,0.000268619723725043,0.123
+"Sales, Marketing and Public Relations Professionals",2250,624,0.000267761513745091,NaN
+"Logistics Clerks",5910,619,0.000265615988795211,NaN
+"Health Professionals",2500,609,0.000261324938895449,NaN
+"ICT Trainers",2232,608,0.000260895833905473,0.212
+"Sales Workers",6000,596,0.00025574657402576,NaN
+"Personal Carers and Assistants",4230,591,0.000253601049075879,NaN
+"Metal Engineering Process Workers",8391,585,0.000251026419136023,0.046
+"Graphic Pre-press Trades Workers",3922,584,0.000250597314146047,0.18
+"Funeral Workers",4513,582,0.000249739104166095,0.151
+"Medical Practitioners",2530,578,0.00024802268420619,NaN
+"Livestock Farm Workers",8415,578,0.00024802268420619,0.063
+"Electrical Distribution Trades Workers",3422,575,0.000246735369236262,0.453
+"Switchboard Operators",5616,558,0.000239440584406668,0.222
+"Print Finishers and Screen Printers",3921,534,0.000229142064647241,0.119
+"Automotive Electricians",3211,530,0.000227425644687337,0.091
+"Plastics and Rubber Production Machine Operators",7115,526,0.000225709224727433,0.069
+"Other Construction and Mining Labourers",8219,499,0.000214123389998078,0.225
+"Toolmakers and Engineering Patternmakers",3234,469,0.000201250240298794,0
+"Food Trades Assistants",8512,462,0.000198246505368962,0.023
+"Fencers",8213,461,0.000197817400378986,0.025
+"Senior Non-commissioned Defence Force Members",1392,456,0.000195671875429105,0
+"Financial Brokers and Dealers, and Investment Advisers",2220,448,0.000192239035509296,NaN
+"Boat Builders and Shipwrights",3991,447,0.00019180993051932,0.155
+"Sheetmetal Trades Workers",3222,439,0.000188377090599511,0.248
+"Drillers, Miners and Shot Firers",7122,412,0.000176791255870156,0.34
+"Printing Assistants and Table Workers",8995,409,0.000175503940900228,0.2
+"Construction, Distribution and Production Managers",1330,405,0.000173787520940324,NaN
+"Safety Inspectors",3126,404,0.000173358415950347,0.275
+"Mining Engineers",2336,399,0.000171212891000467,0.611
+"Meat, Poultry and Seafood Process Workers",8313,391,0.000167780051080658,0.135
+"Deck and Fishing Hands",8992,366,0.000157052426331255,0.117
+"Accommodation and Hospitality Managers",1410,344,0.000147612116551781,NaN
+"Vehicle Body Builders and Trimmers",3242,344,0.000147612116551781,0.104
+"Betting Clerks",5611,338,0.000145037486611924,0.075
+"Tertiary Education Teachers",2420,335,0.000143750171641996,NaN
+"Crop Farm Workers",8412,311,0.000133451651882569,0.035
+"Recycling and Rubbish Collectors",8996,303,0.000130018811962761,0.268
+"Machine and Stationary Plant Operators",7100,300,0.000128731496992832,NaN
+"Business and Systems Analysts, and Programmers",2610,298,0.00012787328701288,NaN
+"Upholsterers",3933,272,0.000116716557273501,0.051
+"Legislators",1113,261,0.000111996402383764,0
+"Railway Track Workers",8216,259,0.000111138192403812,0.388
+"Construction Trades Workers",3300,257,0.00011027998242386,NaN
+"Paving and Surfacing Labourers",8215,254,0.000108992667453931,0.122
+"Automotive and Engineering Trades Workers",3200,243,0.000104272512564194,NaN
+"Nurserypersons",3624,238,0.000102126987614314,0.063
+"Agricultural and Forestry Scientists",2341,220,9.44030977947436e-05,0.243
+"Canvas and Leather Goods Makers",3931,220,9.44030977947436e-05,0
+"Information and Organisation Professionals",2240,216,9.26866778348392e-05,NaN
+"Special Care Workers",4234,202,8.66792079751737e-05,0.111
+"Financial and Insurance Clerks",5520,202,8.66792079751737e-05,NaN
+"Industrial Spraypainters",7112,197,8.45336830252932e-05,0.291
+"Paper and Wood Processing Machine Operators",7113,192,8.23881580754126e-05,0.247
+"Outdoor Adventure Guides",4522,186,7.9813528135556e-05,0.074
+"Construction and Mining Labourers",8210,165,7.08023233460577e-05,NaN
+"Numerical Clerks",5500,164,7.03732183560816e-05,NaN
+"Primary Products Inspectors",3113,158,6.7798588416225e-05,0.343
+"Auctioneers, and Stock and Station Agents",6111,145,6.22202235465356e-05,0.222
+"Timber and Wood Process Workers",8394,141,6.05038035866311e-05,0.118
+"Farmers and Farm Managers",1210,132,5.66418586768462e-05,NaN
+"Arts and Media Professionals",2100,132,5.66418586768462e-05,NaN
+"Plastics and Rubber Factory Workers",8392,129,5.53545437069179e-05,0
+"Clay, Concrete, Glass and Stone Processing Machine Operators",7111,127,5.44963337269656e-05,0.165
+"Mobile Plant Operators",7210,126,5.40672287369895e-05,NaN
+"Design, Engineering, Science and Transport Professionals",2300,117,5.02052838272046e-05,NaN
+"Metal Casting, Forging and Finishing Trades Workers",3221,116,4.97761788372285e-05,0.144
+"Social and Welfare Professionals",2720,109,4.67724439073957e-05,NaN
+"Accountants, Auditors and Company Secretaries",2210,103,4.41978139675391e-05,NaN
+"Meat Boners and Slicers, and Slaughterers",8312,93,3.9906764067778e-05,0.202
+"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",3240,76,3.26119792381842e-05,NaN
+"Miscellaneous Hospitality, Retail and Service Managers",1490,72,3.08955592782797e-05,NaN
+"Farm, Forestry and Garden Workers",8410,67,2.87500343283992e-05,NaN
+"Food Preparation Assistants",8510,66,2.83209293384231e-05,NaN
+"Automobile, Bus and Rail Drivers",7310,63,2.70336143684948e-05,NaN
+"Agricultural, Forestry and Horticultural Plant Operators",7211,50,2.14552494988054e-05,0.098
+"Sports and Fitness Workers",4520,46,1.97388295389009e-05,NaN
+"Electronics and Telecommunications Trades Workers",3420,40,1.71641995990443e-05,NaN
+"Mixed Crop and Livestock Farmers",1214,39,1.67350946090682e-05,0
+"Caravan Park and Camping Ground Managers",1412,39,1.67350946090682e-05,0.067
+"Other Technicians and Trades Workers",3900,30,1.28731496992832e-05,NaN
+"Midwifery and Nursing Professionals",2540,23,9.86941476945047e-06,NaN
+"Forestry and Logging Workers",8413,19,8.15299480954604e-06,0
+"Automotive and Electricians and Mechanics",3210,16,6.86567983961772e-06,NaN
+"Agricultural Technicians",3111,13,5.5783648696894e-06,0.26
+"Indigenous Health Workers",4115,10,4.29104989976107e-06,0.276
+"Mobile School Teachers (Aus) / Intermediate School Teachers",2413,9,3.86194490978497e-06,0.161
+"Horticultural Trades Workers",3620,9,3.86194490978497e-06,NaN
+"Miscellaneous Labourers",8990,3,1.28731496992832e-06,NaN

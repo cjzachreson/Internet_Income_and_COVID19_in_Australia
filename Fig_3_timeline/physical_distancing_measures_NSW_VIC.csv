@@ -1,0 +1,30 @@
+measure,state,date,type,
+Ban on public gatherings of more than 500 people,NSW,16/3/20,1,x
+"Closure of pubs, cafes and restaurants",NSW,23/3/20,1,x
+Stay-at-home restrictions,NSW,31/3/20,1,x
+Visits allowed to one household,NSW,1/5/20,0,x
+Outdoors gatherings up to 10 people including in cafes and restaurants,NSW,15/5/20,0,x
+"5 visitors to households, outdoor premises up to 500, indoor premises up to 100",NSW,1/6/20,0,x
+20 visitors to households. Public gatherings of 20 people,NSW,13/6/20,0,x
+Restrictions eased on cultural/sporting venues,NSW,1/7/20,0,x
+Restrictions tightening in pubs,NSW,17/7/20,1,x
+"Restrictions on cafes, restaurants, funerals and weddings",NSW,24/7/20,1,x
+Restrictions eased on recreation and entertainment facilities,NSW,28/8/20,0,x
+Restrictions eased on hospitality venues,NSW,16/10/20,0,
+"Restrictions eased on outdoor gatherings, hospitality venues and religious services",NSW,23/10/20,0,
+Restrictions eased on outdoor gatherings and outdoor religious services,NSW,23/11/20,0,
+"Restrictions eased on weddings, hospitality venues and outdoor household and public gatherings",NSW,1/12/20,0,
+Ban on public gatherings of more than 500 people,VIC,16/3/20,1,x
+"Closure of pubs, cafes and restaurants",VIC,23/3/20,1,x
+Stay-at-home restrictions,VIC,30/3/20,1,x
+"Restrictions eased on household visitors, outdoor gatherings, weddings and funerals",VIC,13/5/20,0,x
+"Restrictions eased on household visitors, outdoor gatherings, weddings and funerals",VIC,1/6/20,0,x
+Restrictions tightening on household and outdoor gatherings,VIC,22/6/20,1,x
+Stay-at-home restrictions for selected postcodes,VIC,2/7/20,1,x
+Stage 3 stay-at-home Melbourne,VIC,9/7/20,1,x
+Stage 4 stay-at-home Melbourne,VIC,2/8/20,1,x
+Step 2 roadmap,VIC,28/9/20,0,
+Easing of restrictions,VIC,19/10/20,0,
+Step 3 roadmap,VIC,28/10/20,0,
+"Easing of restrictions on household and outdoor gatherings, weddings, funerals, religious services",VIC,23/11/20,0,
+25% workers return on site,VIC,30/11/20,0,

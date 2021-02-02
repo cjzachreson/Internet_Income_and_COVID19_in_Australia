@@ -1,0 +1,418 @@
+rjbmo06,totes,sumofzero,sumofone,OnePercent,ZeroPercent
+[-7] Not able to be determined,3,1,2,66.7,33.3
+[1000] Managers - NFI,1,1,0,0.0,100.0
+[1111] Chief Executives and Managing Directors,19,16,3,15.8,84.2
+[1112] General Managers,44,42,2,4.5,95.5
+[1113] Legislators,3,1,2,66.7,33.3
+[1210] Farmers and Farm Managers,3,0,3,100.0,0.0
+[1211] Aquaculture Farmers,1,0,1,100.0,0.0
+[1212] Crop Farmers,35,9,26,74.3,25.7
+[1213] Livestock Farmers,61,6,55,90.2,9.8
+[1214] Mixed Crop and Livestock Farmers,23,3,20,87.0,13.0
+[1300] Specialist Managers,62,58,4,6.5,93.5
+"[1311] Advertising, Public Relations and Sales Managers",124,116,8,6.5,93.5
+[1320] Business Administration Managers,7,6,1,14.3,85.7
+[1321] Corporate Services Managers,3,3,0,0.0,100.0
+[1322] Finance Managers,42,40,2,4.8,95.2
+[1323] Human Resource Managers,26,25,1,3.8,96.2
+[1324] Policy and Planning Managers,35,35,0,0.0,100.0
+[1325] Research and Development Managers,10,10,0,0.0,100.0
+"[1330] Construction, Distribution and Production Managers",12,11,1,8.3,91.7
+[1331] Construction Managers,54,39,15,27.8,72.2
+[1332] Engineering Managers,16,16,0,0.0,100.0
+"[1333] Importers, Exporters and Wholesalers",15,8,7,46.7,53.3
+[1334] Manufacturers,29,12,17,58.6,41.4
+[1335] Production Managers,55,51,4,7.3,92.7
+[1336] Supply and Distribution Managers,28,27,1,3.6,96.4
+[1341] Child Care Centre Managers,16,15,1,6.3,93.8
+[1342] Health and Welfare Services Managers,39,38,1,2.6,97.4
+[1343] School Principals,38,38,0,0.0,100.0
+[1344] Other Education Managers,29,26,3,10.3,89.7
+[1351] ICT Managers,82,75,7,8.5,91.5
+[1391] Commissioned Officers (Management),8,7,1,12.5,87.5
+[1392] Senior Non-commissioned Defence Force Members,3,3,0,0.0,100.0
+[1399] Other Specialist Managers,80,77,3,3.8,96.3
+[1410] Accommodation and Hospitality Managers,1,1,0,0.0,100.0
+[1411] Cafe and Restaurant Managers,34,12,22,64.7,35.3
+[1412] Caravan Park and Camping Ground Managers,5,2,3,60.0,40.0
+[1413] Hotel and Motel Managers,6,5,1,16.7,83.3
+[1414] Licensed Club Managers,6,3,3,50.0,50.0
+[1419] Other Accommodation and Hospitality Managers,11,2,9,81.8,18.2
+[1421] Retail Managers,157,113,44,28.0,72.0
+"[1490] Miscellaneous Hospitality, Retail and Service Managers",1,1,0,0.0,100.0
+"[1491] Amusement, Fitness and Sports Centre Managers",12,8,4,33.3,66.7
+[1492] Call or Contact Centre and Customer Service Managers,35,35,0,0.0,100.0
+[1493] Conference and Event Organisers,25,16,9,36.0,64.0
+[1494] Transport Services Managers,9,6,3,33.3,66.7
+"[1499] Other Hospitality, Retail and Service Managers",58,50,8,13.8,86.2
+[2000] Professionals,28,19,9,32.1,67.9
+[2100] Arts and Media Professionals,3,0,3,100.0,0.0
+[2110] Arts Professionals,3,0,3,100.0,0.0
+"[2111] Actors, Dancers and Other Entertainers",11,1,10,90.9,9.1
+[2112] Music Professionals,3,0,3,100.0,0.0
+[2113] Photographers,15,0,15,100.0,0.0
+[2114] Visual Arts and Crafts Professionals,6,0,6,100.0,0.0
+[2120] Media Professionals,6,3,3,50.0,50.0
+"[2121] Artistic Directors, and Media Producers and Presenters",6,4,2,33.3,66.7
+"[2122] Authors, and Book and Script Editors",2,1,1,50.0,50.0
+"[2123] Film, Television, Radio and Stage Directors",13,11,2,15.4,84.6
+[2124] Journalists and Other Writers,24,19,5,20.8,79.2
+"[2200] Business, Human Resource and Marketing Professionals",9,8,1,11.1,88.9
+"[2210] Accountants, Auditors and Company Secretaries",3,3,0,0.0,100.0
+[2211] Accountants,105,91,14,13.3,86.7
+"[2212] Auditors, Company Secretaries and Corporate Treasurers",18,16,2,11.1,88.9
+"[2220] Financial Brokers and Dealers, and Investment Advisers",2,1,1,50.0,50.0
+[2221] Financial Brokers,19,12,7,36.8,63.2
+[2222] Financial Dealers,19,18,1,5.3,94.7
+[2223] Financial Investment Advisers and Managers,22,22,0,0.0,100.0
+[2231] Human Resource Professionals,54,51,3,5.6,94.4
+[2232] ICT Trainers,4,3,1,25.0,75.0
+[2233] Training and Development Professionals,14,12,2,14.3,85.7
+[2240] Information and Organisation Professionals,3,3,0,0.0,100.0
+"[2241] Actuaries, Mathematicians and Statisticians",13,12,1,7.7,92.3
+"[2242] Archivists, Curators and Records Managers",8,8,0,0.0,100.0
+[2243] Economists,6,3,3,50.0,50.0
+[2244] Intelligence and Policy Analysts,31,30,1,3.2,96.8
+[2245] Land Economists and Valuers,10,9,1,10.0,90.0
+[2246] Librarians,11,9,2,18.2,81.8
+[2247] Management and Organisation Analysts,54,37,17,31.5,68.5
+[2249] Other Information and Organisation Professionals,27,27,0,0.0,100.0
+"[2250] Sales, Marketing and Public Relations Professionals",2,2,0,0.0,100.0
+[2251] Advertising and Marketing Professionals,55,45,10,18.2,81.8
+[2252] ICT Sales Professionals,21,19,2,9.5,90.5
+[2253] Public Relations Professionals,23,20,3,13.0,87.0
+[2254] Technical Sales Representatives,39,39,0,0.0,100.0
+"[2300] Design, Engineering, Science and Transport Professionals",1,0,1,100.0,0.0
+[2311] Air Transport Professionals,14,14,0,0.0,100.0
+[2312] Marine Transport Professionals,16,12,4,25.0,75.0
+[2321] Architects and Landscape Architects,22,19,3,13.6,86.4
+[2322] Surveyors and Spatial Scientists,12,11,1,8.3,91.7
+"[2323] Fashion, Industrial and Jewellery Designers",6,3,3,50.0,50.0
+"[2324] Graphic and Web Designers, and Illustrators",40,24,16,40.0,60.0
+[2325] Interior Designers,10,6,4,40.0,60.0
+[2326] Urban and Regional Planners,16,13,3,18.8,81.3
+[2330] Engineering Professionals,5,4,1,20.0,80.0
+[2331] Chemical and Materials Engineers,5,4,1,20.0,80.0
+[2332] Civil Engineering Professionals,35,33,2,5.7,94.3
+[2333] Electrical Engineers,13,12,1,7.7,92.3
+[2334] Electronics Engineers,2,2,0,0.0,100.0
+"[2335] Industrial, Mechanical and Production Engineers",20,15,5,25.0,75.0
+[2336] Mining Engineers,4,4,0,0.0,100.0
+[2339] Other Engineering Professionals,6,5,1,16.7,83.3
+[2341] Agricultural and Forestry Scientists,10,6,4,40.0,60.0
+"[2342] Chemists, and Food and Wine Scientists",9,8,1,11.1,88.9
+[2343] Environmental Scientists,24,18,6,25.0,75.0
+[2344] Geologists and Geophysicists,6,5,1,16.7,83.3
+[2345] Life Scientists,11,8,3,27.3,72.7
+[2346] Medical Laboratory Scientists,22,18,4,18.2,81.8
+[2347] Veterinarians,10,7,3,30.0,70.0
+[2349] Other Natural and Physical Science Professionals,13,9,4,30.8,69.2
+[2400] Education Professionals,19,7,12,63.2,36.8
+[2410] School Teacher,30,21,9,30.0,70.0
+[2411] Early Childhood (Pre-Primary School) Teachers,26,22,4,15.4,84.6
+[2412] Primary School Teachers,194,172,22,11.3,88.7
+[2413] Mobile School Teachers (Aus) / Intermediate School Teachers,2,1,1,50.0,50.0
+[2414] Secondary School Teachers,196,174,22,11.2,88.8
+[2415] Special Education Teachers,37,36,1,2.7,97.3
+[2420] Tertiary Education Teachers,2,2,0,0.0,100.0
+[2421] University Lecturers and Tutors,58,34,24,41.4,58.6
+[2422] Vocational Education Teachers (Aus) / Polytechnic Teachers (NZ),31,23,8,25.8,74.2
+[2491] Education Advisers and Reviewers,12,10,2,16.7,83.3
+[2492] Private Tutors and Teachers,33,1,32,97.0,3.0
+[2493] Teachers of English to Speakers of Other Languages,7,2,5,71.4,28.6
+[2500] Health Professionals,1,1,0,0.0,100.0
+[2511] Dietitians,8,6,2,25.0,75.0
+[2512] Medical Imaging Professionals,18,15,3,16.7,83.3
+[2513] Occupational and Environmental Health Professionals,21,19,2,9.5,90.5
+[2514] Optometrists and Orthoptists,2,1,1,50.0,50.0
+[2515] Pharmacists,23,16,7,30.4,69.6
+[2519] Other Health Diagnostic and Promotion Professionals,12,10,2,16.7,83.3
+[2521] Chiropractors and Osteopaths,6,1,5,83.3,16.7
+[2522] Complementary Health Therapists,3,0,3,100.0,0.0
+[2523] Dental Practitioners,7,3,4,57.1,42.9
+[2524] Occupational Therapists,16,12,4,25.0,75.0
+[2525] Physiotherapists,30,24,6,20.0,80.0
+[2526] Podiatrists,5,3,2,40.0,60.0
+[2527] Speech Professionals and Audiologists,13,9,4,30.8,69.2
+[2530] Medical Practitioners,5,5,0,0.0,100.0
+[2531] Generalist Medical Practitioners,32,19,13,40.6,59.4
+[2532] Anaesthetists,7,6,1,14.3,85.7
+[2533] Specialist Physicians,7,7,0,0.0,100.0
+[2534] Psychiatrists,1,1,0,0.0,100.0
+[2535] Surgeons,7,4,3,42.9,57.1
+[2539] Other Medical Practitioners,7,6,1,14.3,85.7
+[2540] Midwifery and Nursing Professionals,4,4,0,0.0,100.0
+[2541] Midwives,21,15,6,28.6,71.4
+[2542] Nurse Educators and Researchers,14,14,0,0.0,100.0
+[2543] Nurse Managers,33,31,2,6.1,93.9
+[2544] Registered Nurses,198,170,28,14.1,85.9
+[2600] ICT Professionals,23,18,5,21.7,78.3
+"[2610] Business and Systems Analysts, and Programmers",2,2,0,0.0,100.0
+[2611] ICT Business and Systems Analysts,33,29,4,12.1,87.9
+[2612] Multimedia Specialists and Web Developers,9,6,3,33.3,66.7
+[2613] Software and Applications Programmers,66,49,17,25.8,74.2
+"[2621] Database and Systems Administrators, and ICT Security Specialists",20,18,2,10.0,90.0
+[2631] Computer Network Professionals,12,11,1,8.3,91.7
+[2632] ICT Support and Test Engineers,10,10,0,0.0,100.0
+[2633] Telecommunications Engineering Professionals,5,4,1,20.0,80.0
+[2711] Barristers,12,3,9,75.0,25.0
+[2712] Judicial and Other Legal Professionals,20,19,1,5.0,95.0
+[2713] Solicitors,73,57,16,21.9,78.1
+[2720] Social and Welfare Professionals,8,7,1,12.5,87.5
+[2721] Counsellors,28,16,12,42.9,57.1
+[2722] Ministers of Religion,22,18,4,18.2,81.8
+[2723] Psychologists,28,16,12,42.9,57.1
+[2724] Social Professionals,18,10,8,44.4,55.6
+[2725] Social Workers,31,27,4,12.9,87.1
+"[2726] Welfare, Recreation and Community Arts Workers",32,29,3,9.4,90.6
+[3000] Technicians and Trades Workers,7,7,0,0.0,100.0
+"[3100] Engineering, ICT and Science Technicians",1,1,0,0.0,100.0
+[3111] Agricultural Technicians,2,2,0,0.0,100.0
+[3112] Medical Technicians,33,25,8,24.2,75.8
+[3113] Primary Products Inspectors,2,2,0,0.0,100.0
+[3114] Science Technicians,17,15,2,11.8,88.2
+[3120] Building and Engineering Technicans,8,7,1,12.5,87.5
+"[3121] Architectural, Building and Surveying Technicians",73,64,9,12.3,87.7
+[3122] Civil Engineering Draftspersons and Technicans,15,14,1,6.7,93.3
+[3123] Electrical Engineering Draftspersons and Technicians,11,11,0,0.0,100.0
+[3124] Electronic Engineering Draftspersons and Technicians,5,4,1,20.0,80.0
+[3125] Mechanical Engineering Draftspersons and Technicians,3,1,2,66.7,33.3
+[3126] Safety Inspectors,2,2,0,0.0,100.0
+[3129] Other Building and Engineering Technicians,17,17,0,0.0,100.0
+[3131] ICT Support Technicians,57,47,10,17.5,82.5
+[3132] Telecommunications Technical Specialists,6,5,1,16.7,83.3
+[3200] Automotive and Engineering Trades Workers,12,10,2,16.7,83.3
+[3210] Automotive and Electricians and Mechanics,1,0,1,100.0,0.0
+[3211] Automotive Electricians,3,1,2,66.7,33.3
+[3212] Motor Mechanics,61,47,14,23.0,77.0
+"[3221] Metal Casting, Forging and Finishing Trades Workers",2,1,1,50.0,50.0
+[3222] Sheetmetal Trades Workers,5,4,1,20.0,80.0
+[3223] Structural Steel and Welding Trades Workers,56,33,23,41.1,58.9
+[3231] Aircraft Maintenance Engineers,14,13,1,7.1,92.9
+[3232] Metal Fitters and Machinists,85,68,17,20.0,80.0
+[3233] Precision Metal Trades Workers,3,3,0,0.0,100.0
+[3234] Toolmakers and Engineering Patternmakers,4,4,0,0.0,100.0
+"[3240] Panelbeaters, and Vehicle Body Builders, Trimmers and Painters",1,0,1,100.0,0.0
+[3241] Panelbeaters,9,9,0,0.0,100.0
+[3242] Vehicle Body Builders and Trimmers,7,3,4,57.1,42.9
+[3243] Vehicle Painters,13,12,1,7.7,92.3
+[3300] Construction Trades Workers,2,0,2,100.0,0.0
+[3311] Bricklayers and Stonemasons,15,5,10,66.7,33.3
+[3312] Carpenters and Joiners,104,61,43,41.3,58.7
+[3321] Floor Finishers,10,2,8,80.0,20.0
+[3322] Painting Trades Workers,32,7,25,78.1,21.9
+[3331] Glaziers,4,3,1,25.0,75.0
+[3332] Plasterers,25,6,19,76.0,24.0
+[3333] Roof Tilers,2,0,2,100.0,0.0
+[3334] Wall and Floor Tilers,9,2,7,77.8,22.2
+[3341] Plumbers,55,31,24,43.6,56.4
+[3400] Electrotechnology and Telecommunications Trades Workers,10,7,3,30.0,70.0
+[3411] Electricians,89,61,28,31.5,68.5
+[3420] Electronics and Telecommunications Trades Workers,1,1,0,0.0,100.0
+[3421] Airconditioning and Refrigeration Mechanics,18,15,3,16.7,83.3
+[3422] Electrical Distribution Trades Workers,9,9,0,0.0,100.0
+[3423] Electronics Trades Workers,24,16,8,33.3,66.7
+[3424] Telecommunications Trades Workers,19,16,3,15.8,84.2
+[3511] Bakers and Pastrycooks,13,9,4,30.8,69.2
+[3512] Butchers and Smallgoods Makers,16,10,6,37.5,62.5
+[3513] Chefs,49,30,19,38.8,61.2
+[3514] Cooks,34,24,10,29.4,70.6
+[3611] Animal Attendants and Trainers,11,3,8,72.7,27.3
+[3612] Shearers,2,0,2,100.0,0.0
+[3613] Veterinary Nurses,15,11,4,26.7,73.3
+[3620] Horticultural Trades Workers,1,1,0,0.0,100.0
+[3621] Florists,5,1,4,80.0,20.0
+[3622] Gardeners,63,21,42,66.7,33.3
+[3623] Greenkeepers,15,11,4,26.7,73.3
+[3624] Nurserypersons,6,2,4,66.7,33.3
+[3900] Other Technicians and Trades Workers,1,0,1,100.0,0.0
+[3911] Hairdressers,38,21,17,44.7,55.3
+[3921] Print Finishers and Screen Printers,3,2,1,33.3,66.7
+[3922] Graphic Pre-press Trades Workers,2,2,0,0.0,100.0
+[3923] Printers,3,3,0,0.0,100.0
+[3931] Canvas and Leather Goods Makers,2,0,2,100.0,0.0
+[3932] Clothing Trades Workers,6,1,5,83.3,16.7
+[3933] Upholsterers,3,1,2,66.7,33.3
+[3940] Wood Trades Workers,1,0,1,100.0,0.0
+[3941] Cabinetmakers,18,12,6,33.3,66.7
+[3942] Wood Machinists and Other Wood Trades Workers,2,2,0,0.0,100.0
+[3991] Boat Builders and Shipwrights,2,1,1,50.0,50.0
+"[3992] Chemical, Gas, Petroleum and Power Generation Plant Operator",14,12,2,14.3,85.7
+"[3993] Gallery, Library and Museum Technicians",10,10,0,0.0,100.0
+[3994] Jewellers,3,2,1,33.3,66.7
+[3995] Performing Arts Technicians,16,6,10,62.5,37.5
+[3996] Signwriters,5,4,1,20.0,80.0
+[3999] Other Miscellaneous Technicians and Trades Workers,26,18,8,30.8,69.2
+[4111] Ambulance Officers and Paramedics,19,17,2,10.5,89.5
+"[4112] Dental Hygienists, Technicians and Therapists",5,3,2,40.0,60.0
+[4113] Diversional Therapists,10,9,1,10.0,90.0
+[4114] Enrolled and Mothercraft Nurses,43,39,4,9.3,90.7
+[4115] Indigenous Health Workers,2,2,0,0.0,100.0
+[4116] Massage Therapists,9,0,9,100.0,0.0
+[4117] Welfare Support Workers,108,92,16,14.8,85.2
+[4211] Child Carers,140,81,59,42.1,57.9
+[4221] Education Aides,93,74,19,20.4,79.6
+[4230] Personal Carers and Assistants,1,1,0,0.0,100.0
+[4231] Aged and Disabled Carers,150,83,67,44.7,55.3
+[4232] Dental Assistants,25,13,12,48.0,52.0
+[4233] Nursing Support and Personal Care Workers,122,91,31,25.4,74.6
+[4234] Special Care Workers,2,1,1,50.0,50.0
+[4310] Hospitality Workers,25,2,23,92.0,8.0
+[4311] Bar Attendants and Baristas,80,9,71,88.8,11.3
+[4312] Cafe Workers,32,4,28,87.5,12.5
+[4313] Gaming Workers,5,4,1,20.0,80.0
+[4314] Hotel Service Managers,8,4,4,50.0,50.0
+[4315] Waiters,107,16,91,85.0,15.0
+[4319] Other Hospitality Workers,6,3,3,50.0,50.0
+[4411] Defence Force Members - Other Ranks,10,10,0,0.0,100.0
+[4412] Fire and Emergency Workers,22,21,1,4.5,95.5
+[4413] Police,59,59,0,0.0,100.0
+[4421] Prison Officers,16,15,1,6.3,93.8
+[4422] Security Officers and Guards,45,31,14,31.1,68.9
+[4511] Beauty Therapists,18,3,15,83.3,16.7
+[4512] Driving Instructors,6,0,6,100.0,0.0
+[4513] Funeral Workers,7,6,1,14.3,85.7
+"[4514] Gallery, Museum and Tour Guides",8,2,6,75.0,25.0
+[4515] Personal Care Consultants,1,0,1,100.0,0.0
+[4516] Tourism and Travel Advisers,18,16,2,11.1,88.9
+[4517] Travel Attendants,9,9,0,0.0,100.0
+[4518] Other Personal Service Workers,24,4,20,83.3,16.7
+[4520] Sports and Fitness Workers,1,0,1,100.0,0.0
+[4521] Fitness Instructors,36,4,32,88.9,11.1
+[4522] Outdoor Adventure Guides,6,4,2,33.3,66.7
+"[4523] Sports Coaches, Instructors and Officals",53,8,45,84.9,15.1
+[4524] Sportspersons,8,1,7,87.5,12.5
+[5000] Clerical and Administrative Workers,8,4,4,50.0,50.0
+"[5111] Contract, Program and Project Administrators",79,70,9,11.4,88.6
+[5121] Office Managers,122,94,28,23.0,77.0
+[5122] Practice Managers,21,18,3,14.3,85.7
+[5211] Personal Assistants,58,55,3,5.2,94.8
+[5212] Secretaries,16,13,3,18.8,81.3
+[5311] General Clerks,155,119,36,23.2,76.8
+[5321] Keyboard Operators,13,9,4,30.8,69.2
+[5411] Call or Contact Centre Workers,20,17,3,15.0,85.0
+[5412] Inquiry Clerks,58,49,9,15.5,84.5
+[5421] Receptionists,158,102,56,35.4,64.6
+[5500] Numerical Clerks,2,2,0,0.0,100.0
+[5511] Accounting Clerks,87,72,15,17.2,82.8
+[5512] Bookkeepers,63,25,38,60.3,39.7
+[5513] Payroll Clerks,15,13,2,13.3,86.7
+[5520] Financial and Insurance Clerks,1,1,0,0.0,100.0
+[5521] Bank Workers,18,18,0,0.0,100.0
+[5522] Credit and Loans Officers (Aus) / Finance Clerks (NZ),35,35,0,0.0,100.0
+"[5523] Insurance, Money Market and Statistical Clerks",44,43,1,2.3,97.7
+[5611] Betting Clerks,3,2,1,33.3,66.7
+[5612] Couriers and Postal Deliveries,27,20,7,25.9,74.1
+[5613] Filing and Registry Clerks,13,9,4,30.8,69.2
+[5614] Mail Sorters,8,6,2,25.0,75.0
+[5615] Survey Interviewers,7,0,7,100.0,0.0
+[5616] Switchboard Operators,2,2,0,0.0,100.0
+[5619] Other Clerical and Office Support Workers,14,7,7,50.0,50.0
+[5910] Logistics Clerks,3,2,1,33.3,66.7
+[5911] Purchasing and Supply Logistics Clerks,97,83,14,14.4,85.6
+[5912] Transport and Despatch Clerks,44,37,7,15.9,84.1
+[5991] Conveyancers and Legal Executives,19,15,4,21.1,78.9
+[5992] Court and Legal Clerks,25,23,2,8.0,92.0
+[5993] Debt Collectors,8,7,1,12.5,87.5
+[5994] Human Resource Clerks,11,10,1,9.1,90.9
+[5995] Inspectors and Regulatory Officers,57,56,1,1.8,98.2
+"[5996] Insurance Investigators, Loss Adjusters and Risk Surveyors",2,2,0,0.0,100.0
+[5997] Library Assistants,8,5,3,37.5,62.5
+[5999] Other Miscellaneous Clerical and Administrative Workers,23,16,7,30.4,69.6
+[6000] Sales Workers,5,2,3,60.0,40.0
+"[6111] Auctioneers, and Stock and Station Agents",6,5,1,16.7,83.3
+[6112] Insurance Agents,4,4,0,0.0,100.0
+[6113] Sales Representatives,65,56,9,13.8,86.2
+[6121] Real Estate Sales Agents,54,40,14,25.9,74.1
+[6210] Sales Assistants and Salespersons,1,1,0,0.0,100.0
+[6211] Sales Assistants (General),448,160,288,64.3,35.7
+[6212] ICT Sales Assistants,13,9,4,30.8,69.2
+[6213] Motor Vehicle and Vehicle Parts Salespersons,27,24,3,11.1,88.9
+[6214] Pharmacy Sales Assistants,36,23,13,36.1,63.9
+[6215] Retail Supervisors,75,55,20,26.7,73.3
+[6216] Service Station Attendants,6,1,5,83.3,16.7
+[6217] Street Vendors and Related Salespersons,10,1,9,90.0,10.0
+[6219] Other Sales Assistants and Salespersons,17,7,10,58.8,41.2
+[6311] Checkout Operators and Office Cashiers,77,24,53,68.8,31.2
+[6391] Models and Sales Demonstrators,8,1,7,87.5,12.5
+[6392] Retail and Wool Buyers,5,4,1,20.0,80.0
+[6393] Telemarketers,5,1,4,80.0,20.0
+[6394] Ticket Salespersons,15,7,8,53.3,46.7
+[6395] Visual Merchandisers,3,3,0,0.0,100.0
+[6399] Other Sales Support Workers,8,4,4,50.0,50.0
+[7000] Machinery Operators and Drivers,20,14,6,30.0,70.0
+[7100] Machine and Stationary Plant Operators,3,2,1,33.3,66.7
+[7110] Machine Operators,1,1,0,0.0,100.0
+"[7111] Clay, Concrete, Glass and Stone Processing Machine Operators",4,3,1,25.0,75.0
+[7112] Industrial Spraypainters,1,1,0,0.0,100.0
+[7113] Paper and Wood Processing Machine Operators,6,6,0,0.0,100.0
+[7115] Plastics and Rubber Production Machine Operators,4,1,3,75.0,25.0
+[7116] Sewing Machinists,3,0,3,100.0,0.0
+[7119] Other Machine Operators,14,11,3,21.4,78.6
+"[7121] Crane, Hoist and Lift Operators",12,9,3,25.0,75.0
+"[7122] Drillers, Miners and Shot Firers",45,34,11,24.4,75.6
+[7123] Engineering Production Workers,19,15,4,21.1,78.9
+[7129] Other Stationary Plant Operators,21,17,4,19.0,81.0
+[7210] Mobile Plant Operators,4,3,1,25.0,75.0
+"[7211] Agricultural, Forestry and Horticultural Plant Operators",20,7,13,65.0,35.0
+[7212] Earthmoving Plant Operators,50,25,25,50.0,50.0
+[7213] Forklift Drivers,69,42,27,39.1,60.9
+[7219] Other Mobile Plant Operators,11,6,5,45.5,54.5
+[7300] Road and Rail Drivers,3,1,2,66.7,33.3
+"[7310] Automobile, Bus and Rail Drivers",1,0,1,100.0,0.0
+[7311] Automobile Drivers,23,2,21,91.3,8.7
+[7312] Bus and Coach Drivers,29,15,14,48.3,51.7
+[7313] Train and Tram Drivers,10,10,0,0.0,100.0
+[7321] Delivery Drivers,48,16,32,66.7,33.3
+[7331] Truck Drivers,160,113,47,29.4,70.6
+[7411] Storepersons,74,45,29,39.2,60.8
+[8000] Labourers,6,3,3,50.0,50.0
+[8110] Cleaners and Laundry Workers,27,6,21,77.8,22.2
+[8111] Car Detailers,12,6,6,50.0,50.0
+[8112] Commercial Cleaners,92,39,53,57.6,42.4
+[8113] Domestic Cleaners,31,0,31,100.0,0.0
+[8114] Housekeepers,11,3,8,72.7,27.3
+[8115] Laundry Workers,11,7,4,36.4,63.6
+[8116] Other Cleaners,12,5,7,58.3,41.7
+[8210] Construction and Mining Labourers,6,3,3,50.0,50.0
+[8211] Building and Plumbing Labourers,27,12,15,55.6,44.4
+[8212] Concreters,24,5,19,79.2,20.8
+[8213] Fencers,7,1,6,85.7,14.3
+[8214] Insulation and Home Improvement Installers,18,5,13,72.2,27.8
+[8215] Paving and Surfacing Labourers,7,4,3,42.9,57.1
+[8216] Railway Track Workers,3,3,0,0.0,100.0
+[8217] Structural Steel Construction Workers,18,7,11,61.1,38.9
+[8219] Other Construction and Mining Labourers,9,6,3,33.3,66.7
+[8300] Factory Process Workers,2,2,0,0.0,100.0
+[8311] Food and Drink Factory Workers,22,14,8,36.4,63.6
+"[8312] Meat Boners and Slicers, and Slaughterers",18,15,3,16.7,83.3
+"[8313] Meat, Poultry and Seafood Process Workers",14,10,4,28.6,71.4
+[8321] Packers,45,28,17,37.8,62.2
+[8322] Product Assemblers,19,15,4,21.1,78.9
+[8391] Metal Engineering Process Workers,4,1,3,75.0,25.0
+[8392] Plastics and Rubber Factory Workers,1,0,1,100.0,0.0
+[8393] Product Quality Controllers,10,5,5,50.0,50.0
+[8394] Timber and Wood Process Workers,8,5,3,37.5,62.5
+[8399] Other Factory Process Workers,9,4,5,55.6,44.4
+"[8410] Farm, Forestry and Garden Workers",3,1,2,66.7,33.3
+[8412] Crop Farm Workers,22,5,17,77.3,22.7
+[8413] Forestry and Logging Workers,1,0,1,100.0,0.0
+[8414] Garden and Nursery Labourers,32,10,22,68.8,31.3
+[8415] Livestock Farm Workers,32,12,20,62.5,37.5
+[8416] Mixed Crop and Livestock Farm Workers,6,0,6,100.0,0.0
+"[8419] Other Farm, Forestry and Garden Workers",10,3,7,70.0,30.0
+[8510] Food Preparation Assistants,10,3,7,70.0,30.0
+[8511] Fast Food Cooks,10,0,10,100.0,0.0
+[8512] Food Trades Assistants,7,2,5,71.4,28.6
+[8513] Kitchenhands,96,42,54,56.3,43.8
+[8911] Freight and Furniture Handlers,4,3,1,25.0,75.0
+[8912] Shelf Fillers,52,34,18,34.6,65.4
+[8990] Miscellaneous Labourers,2,1,1,50.0,50.0
+[8991] Caretakers,17,12,5,29.4,70.6
+[8992] Deck and Fishing Hands,7,3,4,57.1,42.9
+[8993] Handypersons,48,14,34,70.8,29.2
+[8994] Motor Vehicle Parts and Accessories Fitters,12,7,5,41.7,58.3
+[8995] Printing Assistants and Table Workers,3,3,0,0.0,100.0
+[8996] Recycling and Rubbish Collectors,1,1,0,0.0,100.0
+[8997] Vending Machine Attendants,7,1,6,85.7,14.3
+[8999] Other Miscellaneous Labourers,75,21,54,72.0,28.0
